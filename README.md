@@ -6,3 +6,8 @@ iGecco studies the problem of integrative clustering in data integration, where 
 
 ## Directory Structure
 - iGecco+: contains codes for Integrative Generalized Convex Clustering Optimization with Feature Selection (iGecco+)
+
+## How to Use
+- iGecco+: 
+1. Download repository of iGecco+
+2. Run example usage file: example_code.m
