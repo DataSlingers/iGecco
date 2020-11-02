@@ -1,4 +1,8 @@
 function ri = rand_index(p1, p2, varargin)
+
+%%% Computes the rand index (or adjusted rand index) to describe the agreement between two partitions.
+%%% Chris McComb (2020). Adjusted Rand Index (https://github.com/cmccomb/rand_index), GitHub. Retrieved November 2, 2020.
+
 %RAND_INDEX Computes the rand index between two partitions.
 %   RAND_INDEX(p1, p2) computes the rand index between partitions p1 and
 %   p2.
